@@ -8,8 +8,8 @@ https://discord.gg/vd63NZyGDq
 Developers involed in this project
 
 1.CoderBoy95
-2.GeForce
-3.CodeNinja
+2.CodeNinja
+3.GeForce
 
 This project is made with a library called PyQt5 in python
 
